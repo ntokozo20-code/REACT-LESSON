@@ -1,11 +1,10 @@
 import React from "react";
-
+import Hero from "./components/Hero";
+import NavBar from "./components/NavBar";
 function App() {
   return (
-    <div>
-      <h1>Welcome to ntokozo React App</h1>
-      <p>This is a simple React application.</p>
-    </div>
+    <NavBar />
+  
   );
 }
 
