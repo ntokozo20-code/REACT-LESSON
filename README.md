@@ -39,7 +39,7 @@ Deployment
 The project is hosted on Netlify.
 Replace the link below with your actual deployment link:
 
-Production URL: https://your-netlify-link-here
+Production URL: https://692de117f2a14361d218cbb6--steady-palmier-bfd42f.netlify.app/
 
 Purpose
 This portfolio acts as a central point where people can learn about:
